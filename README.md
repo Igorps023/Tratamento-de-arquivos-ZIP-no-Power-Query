@@ -3,6 +3,7 @@
 # Leitura de arquivos .zip no Power Query
 - Vídeo: passo-a-passo, como se conectar à uma pasta e extrair o conteúdo de arquivos .zip utilizando Power Query.
 - Vídeo: [Tratamento de arquivos ZIP, CSV e Excel no Power Query em uma consulta / query](https://youtu.be/ke4T_yvMh4U?si=ezCi8e6y53W7-G4v "Tratamento de arquivos ZIP, CSV e Excel no Power Query em uma consulta / query")
+[![Video](https://github.com/Igorps023/Tratamento-de-arquivos-ZIP-no-Power-Query/blob/main/DiversosFormatos.jpg?raw=true "Tratamento de arquivos ZIP, CSV e Excel no Power Query em uma consulta / query")](https://youtu.be/ke4T_yvMh4U?si=SUs0X33Od6Pkr_kd "Tratamento de arquivos ZIP, CSV e Excel no Power Query em uma consulta / query")
 
 **Etapas**
 1. Criar uma função no Power Query
